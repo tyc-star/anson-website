@@ -333,7 +333,7 @@
                     </div>
                     <div>
                         <h3 class="text-xl font-extrabold text-white group-hover:text-indigo-300 transition-colors">數學冒險</h3>
-                        <p class="text-xs text-slate-300 mt-1">小一至小六多元化試題！每次換題自動抽換完全不同的題型風格！</p>
+                        <p class="text-xs text-slate-300 mt-1"></p>
                     </div>
                 </button>
 
@@ -346,7 +346,7 @@
                     </div>
                     <div>
                         <h3 class="text-xl font-extrabold text-white group-hover:text-purple-300 transition-colors">排位賽模式</h3>
-                        <p class="text-xs text-slate-300 mt-1">10LV(水) / 20LV(火) / 30LV(草) / 40LV(雷) 雙 BOSS 固定連戰！</p>
+                        <p class="text-xs text-slate-300 mt-1"></p>
                     </div>
                 </button>
 
@@ -359,7 +359,7 @@
                     </div>
                     <div>
                         <h3 class="text-xl font-extrabold text-white group-hover:text-amber-300 transition-colors">怪獸抽卡機</h3>
-                        <p class="text-xs text-slate-300 mt-1">單抽200元，十連抽2000元！十連抽必得1個山海經怪獸卡！</p>
+                        <p class="text-xs text-slate-300 mt-1"></p>
                     </div>
                 </button>
 
@@ -372,7 +372,7 @@
                     </div>
                     <div>
                         <h3 class="text-xl font-extrabold text-white group-hover:text-emerald-300 transition-colors">怪獸圖鑑與隊伍</h3>
-                        <p class="text-xs text-slate-300 mt-1">查看怪獸等級與屬性，培育最終形態（30LV）戰力再突破！</p>
+                        <p class="text-xs text-slate-300 mt-1"</p>
                     </div>
                 </button>
 
@@ -385,7 +385,7 @@
                     </div>
                     <div>
                         <h3 class="text-xl font-extrabold text-white group-hover:text-pink-300 transition-colors">PVP 對決擂台</h3>
-                        <p class="text-xs text-slate-300 mt-1">進行陣容屬性克制較量，勝者獨得 500 金幣獎勵！</p>
+                        <p class="text-xs text-slate-300 mt-1"></p>
                     </div>
                 </button>
             </div>
